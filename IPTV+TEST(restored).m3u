@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="CBS SPORTS" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/cbs-sports-logo-1.png" group-title="Channels",CBS SPORTS
+https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Green Bay Packers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Green_Bay_Packers_logo.svg/1024px-Green_Bay_Packers_logo.svg.png" group-title="NFL",Green Bay Packers
+https://d1mqzt655t5b7z.cloudfront.net/stream/MjM4Ng==/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Minnesota Vikings" tvg-logo="https://logos-world.net/wp-content/uploads/2020/05/Minnesota-Vikings-Logo.png" group-title="NFL",Minnesota Vikings
+https://d1mqzt655t5b7z.cloudfront.net/stream/MjM4Ng==/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Orlando Magic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Orlando_Magic_logo.svg/1200px-Orlando_Magic_logo.svg.png" group-title="NBA",Orlando Magic
+https://d2p6k45400tsk7.cloudfront.net/stream/MjM4OQ==/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boston Celtics" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1200px-Boston_Celtics.svg.png" group-title="NBA",Boston Celtics
+https://d2p6k45400tsk7.cloudfront.net/stream/MjM4OQ==/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix Suns" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Phoenix_Suns_logo.svg/1200px-Phoenix_Suns_logo.svg.png" group-title="NBA",Phoenix Suns
+https://d1mqzt655t5b7z.cloudfront.net/stream/MjM5Mg==/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Charlotte Hornets" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/1200px-Charlotte_Hornets_%282014%29.svg.png" group-title="NBA",Charlotte Hornets
+https://d1mqzt655t5b7z.cloudfront.net/stream/MjM5Mg==/1080p.m3u8
